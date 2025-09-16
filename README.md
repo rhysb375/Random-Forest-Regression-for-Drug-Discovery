@@ -9,4 +9,6 @@ Its key features include using a range of Python tools such as PaDEL-Descriptor,
 
 Although there is some preclinical evidence to suggest that inhibiting MAP3K8 can regulate the severity and onset of EAE (MS modelling disease) in mice, there are still many barriers to this drug target being a good point of study. One of which is the fact that MAP3K8 is a highly connected central node in many different biological processes within the body, targeting this with an inhibitor could lead to severe pleiotropic effects. In future, I will not rush into selecting a drug target just based off of satisfactory data. 
 
+TRANSPARENCY NOTE: I did have to follow a tutorial for some parts of this project due to my beginner status and the complexity of this project. However, this was only for some technical commands and debugging. The core analysis, dataset handling, and interpretation are my own work.
+
 Thanks for taking the time to look at my project!
