@@ -8,4 +8,5 @@ Its key features include using a range of Python tools such as PaDEL-Descriptor,
 2. There is promising research around targeting kinases for PPMS, especially concerning Bruton's Tyrosine Kinase (BTK) inhibitors and allosteric TYK2 inhibitors. However, targeting any kinase comes with trade-offs of safety concerns. 
 
 Although there is some preclinical evidence to suggest that inhibiting MAP3K8 can regulate the severity and onset of EAE (MS modelling disease) in mice, there are still many barriers to this drug target being a good point of study. One of which is the fact that MAP3K8 is a highly connected central node in many different biological processes within the body, targeting this with an inhibitor could lead to severe pleiotropic effects. In future, I will not rush into selecting a drug target just based off of satisfactory data. 
+
 Thanks for taking the time to read this!
